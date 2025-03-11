@@ -1,3 +1,3 @@
 # MatlabProgramlamaKaynaklari
 
-## Matlab Programlama Dili ile ilgili kaynak kitapları,
+## Matlab Programlama Dili ile ilgili kaynak kitapları, dokümanları ve 
