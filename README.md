@@ -1,4 +1,4 @@
 # MatlabProgramlamaKaynaklari
 
-## Matlab Programlama Dili ile ilgili kaynak kitapları, dokümanları ve eğitim materyallerini içeren bir listedir. Açık kaynak ve akademik 
+## Matlab Programlama Dili ile ilgili kaynak kitapları, dokümanları ve eğitim materyallerini içeren bir listedir. Açık kaynak ve akademik içeriklere odaklanılmıştır.
 
