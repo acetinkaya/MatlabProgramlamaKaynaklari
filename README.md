@@ -4,5 +4,5 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**Matlab Programalama dili** alanında temel ve ileri seviye kaynak kitapları 
+**Matlab Programalama dili** alanında temel ve ileri seviye kaynak kitapları içermektedir.
 
