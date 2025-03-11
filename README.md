@@ -4,4 +4,4 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**Matlab Programalama dili** 
+**Matlab Programalama dili** alanında temel 
