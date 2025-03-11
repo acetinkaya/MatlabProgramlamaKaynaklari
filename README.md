@@ -6,4 +6,5 @@
 
 **Matlab Programalama dili** alanında temel ve ileri seviye kaynak kitapları içermektedir.
 
-Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteliğinde olup, ilgili 
+Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteliğinde olup, ilgili konularda 
+
