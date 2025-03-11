@@ -4,4 +4,4 @@
 
 ## 📌 **Bu Reponun Amacı:**
 
-**Matlab Programalama
+**Matlab Programalama dili** 
