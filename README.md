@@ -8,5 +8,5 @@
 
 Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteliğinde olup, ilgili konularda derinlemesine bilgi edinmeyi ve araştırma yapmayı kolaylaştırmayı amaçlamaktadır.
 
-## NOT: Katkıda bulunmak isteyenler için öneri ve güncellemeler **Pull request** veya **issue açarak**
+## NOT: Katkıda bulunmak isteyenler için öneri ve güncellemeler **Pull request** veya **issue açarak** paylaşılabilir.
 
