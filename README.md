@@ -22,7 +22,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 ---
 
-1. Prof. Dr. Uğur Arifoğlu, 
+1. Prof. Dr. Uğur Arifoğlu, Matlab 9.8 ve Sayısal Uygulamaları, 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
