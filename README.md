@@ -17,7 +17,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 ## 📖 Önerilen Kaynak Kitaplar
 
 | 📘 Kitap Adı | Açıklama | ISBN No | Yayın Yeri/Evi | Erişim Sayfası | Referans No |     
-| Matlab 9.8 ve Sayısal Uygulamaları | Matlab ve toolboxlarını anlatan uygulmalı ders kaynak kitabıdır | 978-605-038-182-5 | 
+| Matlab 9.8 ve Sayısal Uygulamaları | Matlab ve toolboxlarını anlatan uygulmalı ders kaynak kitabıdır | 978-605-038-182-5 | Alfa Yayınları | [ Link ](https://www.alfakitap.com/matlab-9-8-ve-sayisal-uygulamalari-ugur-arifoglu-kitabi-214222-9786050381825-1) | 1. |
 |--------------|---------|------|-----------|------|-|
 
 ---
