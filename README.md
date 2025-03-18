@@ -21,13 +21,14 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | Matlab 9.8 ve Sayısal Uygulamaları | Matlab ve toolboxlarını anlatan uygulmalı ders kitabıdır. | 978-605-038-182-5 | Alfa Yayınları | [ Link ](https://www.alfakitap.com/matlab-9-8-ve-sayisal-uygulamalari-ugur-arifoglu-kitabi-214222-9786050381825-1) | 1. |
 | Matlab Yapay Zeka ve Mühendislik Uygulamaları | Matlab uygulamalı yapay zeka ders kitabıdır.  | 978-605-5106-12-6 | Pusula Yayınları | [ Link ](https://www.amazon.com.tr/Matlab-Cemalettin-Kubat/dp/6055106124) | 2. | 
 | Optimizasyon Yöntemleri ve Matlab, Python, R Uygulamaları | Matlab uygulamalı optimizasyon yöntemi ders kitabıdır.  | 978-625-397-483-1 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/optimizasyon-yontemleri-ve-matlab-python-r-uygulamalari-20317.html) | 3. | 
-| Matlab 9.8 ve Sayısal Uygulamaları | Matlab uygulamalı kaynak ders kitabıdır. | 978-605-038-182-5 | Alfa Basım Yayın | [ Link ](https://www.alfakitap.com/matlab-9-8-ve-sayisal-uygulamalari-ugur-arifoglu-kitabi-214222-9786050381825-1)| 4. | 
+| Matlab 9.8 ve Sayısal Uygulamaları | Matlab Simulink uygulamalı kaynak ders kitabıdır. | 978-605-038-182-5 | Alfa Basım Yayın | [ Link ](https://www.alfakitap.com/matlab-9-8-ve-sayisal-uygulamalari-ugur-arifoglu-kitabi-214222-9786050381825-1)| 4. | 
 
 ---
 
 1. Prof. Dr. Uğur Arifoğlu, Matlab 9.8 ve Sayısal Uygulamaları, Alfa Yayınları, İstanbul, 2020.
 2. Prof. Dr. Cemalettin Kubat, Matlab Yapay Zeka ve Mühendislik Uygulamaları, Pusula Yayınları, 2013.
 3. Prof. Dr. Özlem Türkşen, Optimizasyon Yöntemleri ve Matlab, Python, R Uygulamaları, Nobel Akademik Yayıncılık, 2023.
+4. 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
