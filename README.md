@@ -20,7 +20,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 |--------------|---------|------|-----------|------|-|
 | Matlab 9.8 ve Sayısal Uygulamaları | Matlab ve toolboxlarını anlatan uygulmalı ders kitabıdır. | 978-605-038-182-5 | Alfa Yayınları | [ Link ](https://www.alfakitap.com/matlab-9-8-ve-sayisal-uygulamalari-ugur-arifoglu-kitabi-214222-9786050381825-1) | 1. |
 | Matlab Yapay Zeka ve Mühendislik Uygulamaları | Matlab uygulamalı yapay zeka ders kitabıdır.  | 978-605-5106-12-6 | Pusula Yayınları | [ Link ](https://www.amazon.com.tr/Matlab-Cemalettin-Kubat/dp/6055106124) | 2. | 
-| Optimizasyon Yöntemleri ve Matlab, Python, R Uygulamaları | Matlab uygulamalı optimizasyon yöntemi ders kitabıdır.  | 978-625-397-483-1 | 
+| Optimizasyon Yöntemleri ve Matlab, Python, R Uygulamaları | Matlab uygulamalı optimizasyon yöntemi ders kitabıdır.  | 978-625-397-483-1 | Nobel 
 
 
 ---
