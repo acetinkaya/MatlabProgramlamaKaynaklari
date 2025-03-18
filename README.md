@@ -32,7 +32,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 3. Prof. Dr. Özlem Türkşen, Optimizasyon Yöntemleri ve Matlab, Python, R Uygulamaları, Nobel Akademik Yayıncılık, 2023.
 4. Prof. Dr. Uğur Arifoğlu, Simulink 10.1 ve Uygulamaları, Alfa Yayınları, İstanbul, 2020.
 5. Dr. Deniz Dal, Matlab ile Programlama, Ekin Yayınevi, 2021.
-6. Prof. Dr. İlyas Çankaya, MATLAB App Designer ile GUI Tasarımı ve Uygulamaları
+6. Prof. Dr. İlyas Çankaya, MATLAB App Designer ile GUI Tasarımı ve Uygulamaları, Seçkin Yayıncılık
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
