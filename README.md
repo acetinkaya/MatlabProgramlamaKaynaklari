@@ -22,6 +22,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | Matlab Yapay Zeka ve Mühendislik Uygulamaları | Matlab uygulamalı yapay zeka ders kitabıdır.  | 978-605-5106-12-6 | Pusula Yayınları | [ Link ](https://www.amazon.com.tr/Matlab-Cemalettin-Kubat/dp/6055106124) | 2. | 
 | Optimizasyon Yöntemleri ve Matlab, Python, R Uygulamaları | Matlab uygulamalı optimizasyon yöntemi ders kitabıdır.  | 978-625-397-483-1 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/optimizasyon-yontemleri-ve-matlab-python-r-uygulamalari-20317.html) | 3. | 
 | Simulink 10.1 ve Uygulamaları | Matlab Simulink uygulamalı kaynak ders kitabıdır. | 978-625-449-073-6 | Alfa Basım Yayın | [ Link ](https://www.alfakitap.com/simulink-10-1-ve-uygulamalari-ugur-arifoglu-kitabi-218731-9786254490736-1) | 4. | 
+| Matlab 
 
 ---
 
