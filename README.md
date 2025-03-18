@@ -35,7 +35,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 4. Prof. Dr. Uğur Arifoğlu, Simulink 10.1 ve Uygulamaları, Alfa Yayınları, İstanbul, 2020.
 5. Dr. Deniz Dal, Matlab ile Programlama, Ekin Yayınevi, 2021.
 6. Prof. Dr. İlyas Çankaya, MATLAB App Designer ile GUI Tasarımı ve Uygulamaları, Seçkin Yayıncılık, 2024.
-7. Prof. Dr. 
+7. Prof. Dr. İbrahim Yüksel, 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
