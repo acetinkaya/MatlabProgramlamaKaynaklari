@@ -23,7 +23,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 | Optimizasyon Yöntemleri ve Matlab, Python, R Uygulamaları | Matlab uygulamalı optimizasyon yöntemi ders kitabıdır.  | 978-625-397-483-1 | Nobel Akademik Yayıncılık | [ Link ](https://www.nobelyayin.com/optimizasyon-yontemleri-ve-matlab-python-r-uygulamalari-20317.html) | 3. | 
 | Simulink 10.1 ve Uygulamaları | Matlab Simulink uygulamalı kaynak ders kitabıdır. | 978-625-449-073-6 | Alfa Basım Yayın | [ Link ](https://www.alfakitap.com/simulink-10-1-ve-uygulamalari-ugur-arifoglu-kitabi-218731-9786254490736-1) | 4. | 
 | Matlab ile Programlama | Matlab Programlama dili ders kitabıdır. | 978-625-7565-51-6 | Ekin Yayınevi | [ Link ](https://www.ekinkitap.com/matlab-ile-programlama-deniz-dal) | 5. | 
-| Matlab App Desinger ile GUI Tasarımı ve Uygulamaları | Matlab GUI ve Uygulamaları kaynak ders kitabıdır. 
+| Matlab App Desinger ile GUI Tasarımı ve Uygulamaları | Matlab GUI ve Uygulamaları kaynak ders kitabıdır. | 978-975-02-9448-8 
 
 ---
 
