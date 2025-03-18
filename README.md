@@ -27,6 +27,7 @@ Bu sayfa öğrenciler, araştırmacılar ve profesyoneller için referans niteli
 
 1. Prof. Dr. Uğur Arifoğlu, Matlab 9.8 ve Sayısal Uygulamaları, Alfa Yayınları, İstanbul, 2020.
 2. Prof. Dr. Cemalettin Kubat, Matlab Yapay Zeka ve Mühendislik Uygulamaları, Pusula Yayınları, 2013.
+3. Prof. Dr. 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
